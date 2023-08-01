@@ -1,0 +1,2 @@
+# Network_Packet_Analyzer
+ This project is a simple Network Packet Analyzer built using Java and several libraries, including JFreeChart for data visualization and jNetPcap for capturing and handling network packets. The purpose of this project is to allow users to analyze network packet data stored in a packet capture (PCAP) file, visualize the packet count over time using a time series chart, and display some basic packet statistics.
